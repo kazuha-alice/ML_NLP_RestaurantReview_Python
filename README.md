@@ -13,4 +13,4 @@
 > - Year Created: 2020 ~ :expressionless: 
 > If you're wondering why I uploaded this late, it's due to my oversight, and I regret not realizing earlier the significance of uploading to GitHub to improve my resume and profile.
 
-@Stupid:expressionless:: Yeah I know, It can't be helped :roll_eyes:
+@Stupid~ :expressionless: Yeah I know, It can't be helped :roll_eyes:
