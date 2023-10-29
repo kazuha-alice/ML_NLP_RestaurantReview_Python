@@ -14,3 +14,8 @@
 > If you're wondering why I uploaded this late, it's due to my oversight, and I regret not realizing earlier the significance of uploading to GitHub to improve my resume and profile.
 
 @Stupid~ :expressionless: Yeah I know, It can't be helped :roll_eyes:
+
+
+>[!Note]
+> + In the coming days, I'll be introducing several projects to GitHub. There are numerous ones awaiting upload, and I plan to do so gradually, one by one. Stay tuned for upcoming releases! :smiling_imp:
+> + Additionally, I'm in the process of creating my portfolio website, which will be available soon. I'll include the link to it in my new project releases. :dolphin:
