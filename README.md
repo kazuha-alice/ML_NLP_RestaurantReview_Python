@@ -7,3 +7,8 @@
 - Confusion Matrix: 𝒱𝒾𝓈𝓊𝒶𝓁𝒾𝓏𝒾𝓃𝑔 𝓇𝑒𝓈𝓊𝓁𝓉𝓈 𝓌𝒾𝓉𝒽 𝒸𝑜𝓃𝒻𝓊𝓈𝒾𝑜𝓃 𝓂𝒶𝓉𝓇𝒾𝒸𝑒𝓈.
 - Mathematics Explained: 𝒟𝑒𝓉𝒶𝒾𝓁𝑒𝒹 𝓂𝒶𝓉𝒽𝑒𝓂𝒶𝓉𝒾𝒸𝒶𝓁 𝒾𝓃𝓈𝒾𝑔𝒽𝓉𝓈.
 - Jupyter Notebook: 𝒞𝑜𝒹𝑒 𝒶𝓃𝒹 𝒹𝑜𝒸𝓊𝓂𝑒𝓃𝓉𝒶𝓉𝒾𝑜𝓃 𝒾𝓃 𝒥𝓊𝓅𝓎𝓉𝑒𝓇 𝒩𝑜𝓉𝑒𝒷𝑜𝑜𝓀 𝒻𝑜𝓇𝓂𝒶𝓉.
+
+> [!Important]
+> # Project Details:
+> - Year Created: 2020
+> If you're wondering why I uploaded this late, it's due to my oversight, and I regret not realizing earlier the significance of uploading to GitHub to improve my resume and profile.
